@@ -181,7 +181,7 @@ To run in the background:
 
 
 ```
-nohup ./run_training.sh > training_log.out 2>&1 &
+nohup ./binary_class.sh > training_log.out 2>&1 &
 ```
 
 
@@ -197,3 +197,4 @@ nohup ./run_training.sh > training_log.out 2>&1 &
 
 
 **END**
+
