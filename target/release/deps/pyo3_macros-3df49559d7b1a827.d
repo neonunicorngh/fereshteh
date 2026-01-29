@@ -1,6 +1,6 @@
-/home/rkb0022/CPE487587_HW01/target/release/deps/pyo3_macros-3df49559d7b1a827.d: /home/rkb0022/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-macros-0.27.2/src/lib.rs
+/home/rkb0022/cpe487587hw01/target/release/deps/pyo3_macros-3df49559d7b1a827.d: /home/rkb0022/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-macros-0.27.2/src/lib.rs
 
-/home/rkb0022/CPE487587_HW01/target/release/deps/libpyo3_macros-3df49559d7b1a827.so: /home/rkb0022/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-macros-0.27.2/src/lib.rs
+/home/rkb0022/cpe487587hw01/target/release/deps/libpyo3_macros-3df49559d7b1a827.so: /home/rkb0022/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-macros-0.27.2/src/lib.rs
 
 /home/rkb0022/.cache/puccinialin/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-macros-0.27.2/src/lib.rs:
 

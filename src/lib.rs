@@ -9,6 +9,6 @@ mod _core {
 
     #[pyfunction]
     fn hello_from_bin() -> String {
-        "Hello from cpe487587-hw01!".to_string()
+        "Hello from cpe487587hw01!".to_string()
     }
 }

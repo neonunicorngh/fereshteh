@@ -1,5 +1,5 @@
 [project]
-name = "cpe487587-hw01"
+name = "cpe487587hw01"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,12 +8,14 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
     "torch>=2.10.0",
 ]
 
 [tool.maturin]
-module-name = "cpe487587_hw01._core"
-python-packages = ["cpe487587_hw01"]
+module-name = "cpe487587hw01._core"
+python-packages = ["cpe487587hw01"]
 python-source = "src"
 
 [tool.uv]
