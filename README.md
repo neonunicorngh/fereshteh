@@ -1,5 +1,22 @@
 # Homework 01 CPE 487 587
 
+
+If you want to create this repo from scratch without cloning, go to **Step 1**. Otherwise, go to **Step A**.
+
+## Step A
+
+```
+git clone https://github.com/rahulbhadani/cpe487587hw01
+cd cpe487587hw01
+uv venv --python 3.12
+source .venv/bin/activate
+uv sync
+uv build
+```
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 ## Step 1
 
 ```
@@ -197,4 +214,5 @@ nohup ./binary_class.sh > training_log.out 2>&1 &
 
 
 **END**
+
 
