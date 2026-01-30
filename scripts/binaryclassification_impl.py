@@ -6,6 +6,6 @@ from datetime import datetime
 
 plt.plot(losses.cpu().detach().numpy())
 
-plt.savefig("lossfunction"+str(datetime.now())+".pdf")
+plt.savefig("lossfunction_" + str(datetime.now()).replace(" ", "_").replace(":", "-").replace(".","__") + ".pdf")
 
 print("Training complete.")
