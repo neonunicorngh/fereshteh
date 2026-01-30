@@ -1,5 +1,5 @@
-from cpe487587hw01._core import hello_from_bin
+#from cpe487587hw01._core import hello_from_bin
 from .deepl import binary_classification
 
-def hello() -> str:
-    return hello_from_bin()
+#def hello() -> str:
+#    return hello_from_bin()
