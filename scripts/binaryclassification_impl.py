@@ -1,4 +1,4 @@
-from cpe487587hw01 import deepl
+from fereshteh import binary_classification
 import matplotlib.pyplot as plt
 losses, W1, W2, W3, W4 = deepl.binary_classification(200, 40000, epochs = 50000)
 
