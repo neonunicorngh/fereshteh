@@ -216,3 +216,14 @@ nohup ./binary_class.sh > training_log.out 2>&1 &
 **END**
 
 
+## HW02Q7
+
+### Setup
+From the project root:
+
+```bash
+uv sync
+uv add manim
+uv run python scripts/binaryclassification_animate_impl.py
+media/videos/1080p30/
+ 
