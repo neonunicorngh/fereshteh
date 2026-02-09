@@ -10,3 +10,4 @@ target/
 
 # Virtual environments
 .venv
+media/
