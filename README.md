@@ -227,3 +227,9 @@ uv add manim
 uv run python scripts/binaryclassification_animate_impl.py
 media/videos/1080p30/
  
+## HW02Q8
+
+### Dataset download
+```bash
+chmod +x malwaredatadownload.sh
+./malwaredatadownload.sh
